@@ -1,0 +1,11 @@
+.casino {
+    background: url('http://127.0.0.1:5000/bg/bg_casino.webp');
+}
+
+.live-casino {
+    background: url('http://127.0.0.1:5000/bg/livecasino_bg.jpg');
+}
+
+.vip-casino {
+    background: url('http://127.0.0.1:5000/bg/bg_casino.webp');
+}
